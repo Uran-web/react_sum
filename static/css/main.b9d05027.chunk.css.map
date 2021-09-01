@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,YACE,cAAe,CACf,2CAA8C,CAC9C,eAAgB","file":"main.b9d05027.chunk.css","sourcesContent":[".sumOfProps {\n  font-size: 24px;\n  font-family: 'Courier New', Courier, monospace;\n  font-weight: 500;\n}\n"]}
